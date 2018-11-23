@@ -1,0 +1,80 @@
+.header {
+	background-color: #562323;
+	height: 40px;
+}
+
+.footer {	
+	background-color: #adff2f;
+}
+
+.main {
+	background-color: orange;
+	padding-left: 20px;
+	padding-right:20px;
+	width: 560px;
+	float: left;
+
+}
+
+.right {
+	background-color: green;
+	width: 100px;
+	float: left;
+}
+
+.left {
+	background-color: green;
+	width: 100px;
+	float: left;
+}
+
+.box {
+	background-color: green;
+	width: 800px;
+	margin: 0px auto; 
+
+}
+
+#menu {
+	height: 20px;
+	position: relative;
+}
+
+#menu li a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+#menu li {
+	list-style-type: none;
+	display: inline; 
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: grey;
+}
+
+#menu li:hover {
+	background-color: orange;
+}
+
+.active{
+	background-color: orange;
+}
+
+ul {
+	background-color: #562323;
+	position: relative;
+	top: 20px;
+
+}
+
+li {
+	background-color: #562323;
+
+}
+
+p {
+	text-align: justify;
+}
